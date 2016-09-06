@@ -9,4 +9,3 @@ All Sources of our second Pi - smartLogistics ShowCase
     - Stock UI
     - Show UI (first version)
   - Scripts for ultrasouds sensors
-  - 
